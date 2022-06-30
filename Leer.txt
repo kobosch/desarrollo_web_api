@@ -1,0 +1,6 @@
+Buenos dias, profesor Francisco
+Aqui estan las indicaciones para hacer andar la pagina.
+Abre una terminal:
+Python manage.py runserver 0.0.0.0:puerto
+En la url de la pagina dentro del navegador:
+Cambiar a localhost
